@@ -52,4 +52,4 @@ To deploy the website, you can upload the files to a web hosting service. There 
 This portfolio website was created using Bootstrap, a free and open-source front-end development framework. Bootstrap was created by Twitter and is now maintained by a team of developers. You can learn more about Bootstrap and download the latest version at https://getbootstrap.com/.
  
  ## LIVE link 
- # aakashportfolio-fkk561i3v-aakash1008.vercel.app
+ # https://aakashportfolio.vercel.app/
