@@ -2,7 +2,7 @@
 
 This is a sample portfolio website created using Bootstrap and Git, a popular version control system. The website is designed to showcase your skills and projects to potential employers and clients, and Git allows you to track changes to your code and collaborate with others.
 
--Features
+## Features
 
 Responsive design that adapts to different screen sizes
 A clean and modern layout
@@ -21,19 +21,19 @@ To use this template, you need to have basic knowledge of HTML, CSS, and Bootstr
 6.Customizing the Website
 To customize the website to your needs, you can make changes to the HTML, CSS, and JavaScript files.
 
--HTML
+## HTML
 
 The HTML file contains the structure and content of the website. You can edit the text, images, and links to reflect your own information. You can also add or remove sections as needed.
 
--CSS
+## CSS
 
 The CSS file contains the styles for the website. You can change the colors, fonts, and layout to match your preferences. You can also add your own custom styles.
 
--JavaScript
+## JavaScript
 
 The JavaScript file contains the code for the contact form. You need to replace the email address in the code with your own email address. You can also customize the messages that appear when the form is submitted.
 
--Using Git
+## Using Git
 
 Git is a version control system that allows you to track changes to your code and collaborate with others. To use Git with this project, follow these steps:
 
@@ -43,12 +43,13 @@ Git is a version control system that allows you to track changes to your code an
 4.Push your changes to your fork of the repository on GitHub.
 5.Create a pull request to merge your changes with the original repository.
 
--Deployment
+## Deployment
 
 To deploy the website, you can upload the files to a web hosting service. There are many options available, including free and paid services. Some popular options include GitHub Pages, Netlify, and Heroku.
 
-Credits
+## Credits
 
 This portfolio website was created using Bootstrap, a free and open-source front-end development framework. Bootstrap was created by Twitter and is now maintained by a team of developers. You can learn more about Bootstrap and download the latest version at https://getbootstrap.com/.
  
- **LIVE link :aakashportfolio-fkk561i3v-aakash1008.vercel.app**
+ ## LIVE link 
+ # aakashportfolio-fkk561i3v-aakash1008.vercel.app
